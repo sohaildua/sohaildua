@@ -4,11 +4,12 @@
 <h1 align="center">Hi 👋, I'm Sohail Dua</h1>
 <h3 align="center">Software and Data Enthusiast. Masters in Computer Science.</h3>
 
-<img align="right" alt="Coding" width="300" src="https://media0.giphy.com/media/RbDKaczqWovIugyJmW/200.gif" >
+
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=sohaildua&label=Profile%20views&color=0e75b6&style=flat" alt="sohaildua" /> </p>
 
 <p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=sohaildua" alt="sohaildua" /></a> </p>
 
+<img align="right" alt="Coding" width="300" src="https://media0.giphy.com/media/RbDKaczqWovIugyJmW/200.gif" >
 - 🔭 I’m currently working on **Twitter Data Pipeline with Apache Airflow**
 
 - 🌱 I’m currently learning **Computer Vision, AWS Tools ,Data Structure and Algorithms**
