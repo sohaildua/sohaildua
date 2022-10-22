@@ -1,5 +1,5 @@
 
-[![MasterHead](https://user-images.githubusercontent.com/20297474/197307000-63f3be67-5b69-4970-b80a-cd59dafdd82d.png)]
+[![MasterHead](https://user-images.githubusercontent.com/20297474/197307000-63f3be67-5b69-4970-b80a-cd59dafdd82d.png)
 
 <h1 align="center">Hi 👋, I'm Sohail Dua</h1>
 <h3 align="center">Software and Data Enthusiast. Masters in Computer Science.</h3>
