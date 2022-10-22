@@ -1,8 +1,10 @@
+
+[![MasterHead](https://user-images.githubusercontent.com/20297474/197307000-63f3be67-5b69-4970-b80a-cd59dafdd82d.png)]
+
 <h1 align="center">Hi 👋, I'm Sohail Dua</h1>
 <h3 align="center">Software and Data Enthusiast. Masters in Computer Science.</h3>
 
-<img align="right" alt="Coding" width="400" src="https://media1.giphy.com/media/RbDKaczqWovIugyJmW/200.gif">
-
+<img align="right" alt="Coding" width="325" src="https://media0.giphy.com/media/RbDKaczqWovIugyJmW/200.gif" >
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=sohaildua&label=Profile%20views&color=0e75b6&style=flat" alt="sohaildua" /> </p>
 
 <p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=sohaildua" alt="sohaildua" /></a> </p>
