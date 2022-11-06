@@ -36,4 +36,4 @@
 
 
 <img align="" src="https://github-readme-stats.vercel.app/api?username=sohaildua&show_icons=true&locale=en&theme=radical" alt="sohaildua" /><img align="" src="https://github-readme-streak-stats.herokuapp.com/?user=sohaildua&theme=radical" alt="sohaildua" />
-<p><img align="center" src="https://github-readme-stats.vercel.app/api/top-langs?username=sohaildua&show_icons=true&locale=en&layout=compact&theme=radical" alt="sohaildua" /></p>
+<p><img align="center" src="https://github-readme-stats.vercel.app/api/top-langs?username=sohaildua&show_icons=true&locale=en&layout=compact&theme=radical" alt="sohaildua"/></p>
