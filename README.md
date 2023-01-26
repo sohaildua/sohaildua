@@ -10,7 +10,7 @@
 <p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=sohaildua" alt="sohaildua" /></a> </p>
 
 <img align="right" alt="Coding" width="300" src="https://media0.giphy.com/media/RbDKaczqWovIugyJmW/200.gif" >
-- 🔭 I’m currently working on **Twitter Data Pipeline with Apache Airflow* and started a full timme job at clouflight as software developer*
+- 🔭 I’m currently working on *Twitter Data Pipeline with Apache Airflow and started a full time job at cloudflight as software developer*
 
 - 🌱 I’m currently learning **Computer Vision, AWS Tools ,Data Structure and Algorithms**
 
