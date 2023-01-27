@@ -7,7 +7,7 @@
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=sohaildua&label=Profile%20views&color=0e75b6&style=flat" alt="sohaildua" /> </p>
 
-<p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=sohaildua" alt="sohaildua" /></a> </p>
+<p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=sohaildua&theme=onedark" alt="sohaildua" /></a> </p>
 
 <img align="right" alt="Coding" width="300" src="https://media0.giphy.com/media/RbDKaczqWovIugyJmW/200.gif" >
 - 🔭 I’m currently working on *Twitter Data Pipeline with Apache Airflow and started a full time job at cloudflight as software developer*
