@@ -5,7 +5,7 @@
 <h3 align="center">Software and Data Enthusiast. Masters in Computer Science.</h3>
 
 
-<p align="left"> <img src="https://komarev.com/ghpvc/?username=sohaildua&label=Profile%20views&color=0e75b6&style=flat" alt="sohaildua" /> </p>
+<!-- <p align="left"> <img src="https://komarev.com/ghpvc/?username=sohaildua&label=Profile%20views&color=0e75b6&style=flat" alt="sohaildua" /> </p> -->
 
 <p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=sohaildua&theme=onedark" alt="sohaildua" /></a> </p>
 
