@@ -12,7 +12,7 @@
 <img align="right" alt="Coding" width="300" src="https://media0.giphy.com/media/RbDKaczqWovIugyJmW/200.gif" >
 - 🔭 I’m currently working on *Learning React and started a full time job at Bridgestone Mobility Solutions as software developer*
 
-- 🌱 I’m currently learning **Computer Vision, AWS Tools ,Data Structure and Algorithms**
+- 🌱 I’m currently learning **Computer Vision, React ,Data Structure and Algorithms**
 
 - 💬 Ask me about **Java, Python**
 
