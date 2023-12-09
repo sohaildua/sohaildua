@@ -20,7 +20,7 @@
 
 - 📄 Know about my experiences [https://drive.google.com/file/d/1zxO4dgytRi9ruVdJS4I1Z1N8NrE_aIRN/view?usp=sharing](https://drive.google.com/file/d/1zxO4dgytRi9ruVdJS4I1Z1N8NrE_aIRN/view?usp=sharing)
 
-- ⚡ Fun fact **I am good at making puns**
+- ⚡ Fun fact **I am good at making puns, and love to watch anime, tv series. i am a video game lover**
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
